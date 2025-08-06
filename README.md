@@ -52,7 +52,7 @@ Por un acuerdo con Nación, el gobierno de Santa Fe cubre los gastos de techo y
 comida. Qué comen y dónde duermen los 1.200 efectivos que llegaron a Rosario
 
 Cuerpo del texto:
- El Hotel República, en San Lorenzo y San Martín, es uno de los alojamientos
+El Hotel República, en San Lorenzo y San Martín, es uno de los alojamientos
 donde los efectivos residen en la ciudad.  El lado B de la saturación de
 seguridad en Rosario indica que cada uno de los agentes de las fuerzas federales
 que vinieron a la ciudad cuestan $11.600 por día, en alimentación y alojamiento
