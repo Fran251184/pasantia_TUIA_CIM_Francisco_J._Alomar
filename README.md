@@ -34,22 +34,22 @@ Ingrese un índice entre 0 y 594: 400
 
 -- INFORMACIÓN DEL ÍNDICE SELECCIONADO
 
-Índice: 400
-Fecha: 2024-04-07
-Medio: lacapital
+Índice: 400.
+Fecha: 2024-04-07.
+Medio: lacapital.
 URL: https://www.lacapital.com.ar/edicion-impresa/cada-agente-las-fuerzas-federales-rosario-le-cuesta-la-provincia-11600-dia-n10126983.html
-Tipo Medio: local
+Tipo Medio: local.
 Número de Cluster: 1
 
 --       INFORMACIÓN DEL ARTÍCULO
 
 Título:
 Cada agente de las fuerzas federales en Rosario le cuesta a la provincia $11.600
-por día
+por día.
 
 Bajada:
 Por un acuerdo con Nación, el gobierno de Santa Fe cubre los gastos de techo y
-comida. Qué comen y dónde duermen los 1.200 efectivos que llegaron a Rosario
+comida. Qué comen y dónde duermen los 1.200 efectivos que llegaron a Rosario.
 
 Cuerpo del texto:
 El Hotel República, en San Lorenzo y San Martín, es uno de los alojamientos
