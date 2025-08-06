@@ -32,9 +32,8 @@ Se puede ejecutar directamente `umap_kmeans_narcoterrorismo_rosario.ipynb` y com
 
 Ingrese un índice entre 0 y 594: 400
 
-===========================================
-    INFORMACIÓN DEL ÍNDICE SELECCIONADO
-===========================================
+-- INFORMACIÓN DEL ÍNDICE SELECCIONADO
+
 Índice: 400
 Fecha: 2024-04-07
 Medio: lacapital
@@ -42,9 +41,8 @@ URL: https://www.lacapital.com.ar/edicion-impresa/cada-agente-las-fuerzas-federa
 Tipo Medio: local
 Número de Cluster: 1
 
-===========================================
-         INFORMACIÓN DEL ARTÍCULO
-===========================================
+--       INFORMACIÓN DEL ARTÍCULO
+
 Título:
 Cada agente de las fuerzas federales en Rosario le cuesta a la provincia $11.600
 por día
