@@ -17,7 +17,6 @@ El proyecto analiza el discurso mediático y su repercusión en Facebook sobre e
 ├── data/                        # Datos del proyecto
 ├── notebooks/                    # Notebooks de procesamiento
 ├── scripts/                      # Códigos de scraping y preprocesamiento
-├── informes/                     # Informe de la pasantía
 ├── README.md                     # Este archivo
 ```
 
